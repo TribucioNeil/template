@@ -11,7 +11,7 @@
                     <a href="index.html" class="nav-item nav-link active">Home</a>
                     <a href="about.html" class="nav-item nav-link">About</a>
                     <a href="service.html" class="nav-item nav-link">Service</a>
-                    <a href="menu.html" class="nav-item nav-link">Menu</a>
+                    <a href="/shop" class="nav-item nav-link">Menu</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu text-capitalize">
