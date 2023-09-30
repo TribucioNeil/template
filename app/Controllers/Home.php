@@ -23,5 +23,19 @@ class Home extends BaseController
        ];
         return view('products',$data);
     }
+    public function login()
+    {
+      if(isset($_POST['login'])){
+
+        $data = [
+          'email' -> $this->request->getVar('email'),
+          'password' -> $this->request->getVar('password')
+        ];
+        
+      }else{
+        return view ('login');
+      }
+      
+    }
     
 }
