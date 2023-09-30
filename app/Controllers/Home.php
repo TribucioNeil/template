@@ -5,9 +5,11 @@ namespace App\Controllers;
 class Home extends BaseController
 {
   private $product;   
+  private $users;
   public function __construct()
    {
        $this->product = new \App\Models\ProductModel();
+       $this->users = new \App\Models\UserModel();
    }
     public function index()
     {
@@ -25,13 +27,13 @@ class Home extends BaseController
     }
     public function login()
     {
-      if(isset($_POST['login'])){
+      if(isset($_POST['login']))
+      {
+        $email = $this->request->getVar('email');
+        $password = $this->request->getVar('password');
+        $check =$this->user->where('email', $email)->where('password', $password)->fisrt();
 
-        $data = [
-          'email' -> $this->request->getVar('email'),
-          'password' -> $this->request->getVar('password')
-        ];
-        
+
       }else{
         return view ('login');
       }
