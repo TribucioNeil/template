@@ -27,8 +27,10 @@ class Home extends BaseController
     }
     public function login()
     {
-      if(isset($_POST['login']))
-      {
+      $_SESSION = session();
+      
+      if(isset($_POST['login'])){
+
         $email = $this->request->getVar('email');
         $password = $this->request->getVar('password');
         $check =$this->user->where('email', $email)->where('password', $password)->fisrt();
@@ -38,8 +40,8 @@ class Home extends BaseController
             'IsLoggedIn'=> TRUE
           ];
            $_SESSION -> set($data);
+           echo $_SESSION->get('email');
         }
-      
       }else{
         return view ('login');
       }
