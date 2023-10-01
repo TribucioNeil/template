@@ -9,7 +9,7 @@ class Home extends BaseController
   public function __construct()
    {
        $this->product = new \App\Models\ProductModel();
-       $this->users = new \App\Models\UserModel();
+      $this->users = new \App\Models\UserModel();
    }
     public function index()
     {
@@ -23,7 +23,7 @@ class Home extends BaseController
      $data = [
        'product' => $this->product->findAll()
        ];
-        return view('products',$data);
+        return view('products',$data);  
     }
     public function login()
     {
@@ -32,8 +32,14 @@ class Home extends BaseController
         $email = $this->request->getVar('email');
         $password = $this->request->getVar('password');
         $check =$this->user->where('email', $email)->where('password', $password)->fisrt();
-
-
+        if($check){
+          $data= [
+            'email' => $check['email'],
+            'IsLoggedIn'=> TRUE
+          ];
+           $_SESSION -> set($data);
+        }
+      
       }else{
         return view ('login');
       }
