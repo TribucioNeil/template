@@ -1,0 +1,96 @@
+CRITICAL - 2023-10-02 00:00:20 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:21 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:21 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:21 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:22 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:22 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:22 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:22 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:00:22 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:07:40 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:21 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:36 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:37 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:38 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:38 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
+CRITICAL - 2023-10-02 00:10:45 --> Cannot use object of type CodeIgniter\Session\Session as array
+in SYSTEMPATH\CodeIgniter.php on line 1043.
+ 1 SYSTEMPATH\CodeIgniter.php(541): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\template\\template\\public\\index.php')
